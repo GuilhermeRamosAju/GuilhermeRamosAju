@@ -5,12 +5,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/guilherme-ramos-dos-santos/) 
 
 # 📊 Stats:
-<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh;">
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
     <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-        <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeRamosAju&theme=algolia&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=GuilhermeRamosAju&theme=algolia&hide_border=true" alt="GitHub Streak" />
+        <img height: 180em src="https://github-readme-stats.vercel.app/api?username=GuilhermeRamosAju&theme=algolia&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+        <img height: 180em src="https://github-readme-streak-stats.herokuapp.com/?user=GuilhermeRamosAju&theme=algolia&hide_border=true" alt="GitHub Streak" />
     </div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeRamosAju&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+    <img height: 180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeRamosAju&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
