@@ -7,7 +7,6 @@
 # 📊 Stats:
 <div>   
     <img height: 80em src="https://github-readme-streak-stats.herokuapp.com/?user=GuilhermeRamosAju&theme=algolia&hide_border=true" alt="GitHub Streak" />
-    <img height: 80em src="https://github-readme-stats.vercel.app/api?username=GuilhermeRamosAju&theme=algolia&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
     <img height: 180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeRamosAju&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>    
 
